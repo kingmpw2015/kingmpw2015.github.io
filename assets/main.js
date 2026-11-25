@@ -1,6 +1,6 @@
 'use strict';
 const zh = {
-  skip:'跳转到正文',aboutNav:'关于',researchNav:'研究方向',pubNav:'学术论文',heroLabel:'语音 · 音频 · 多模态学习',academicProfile:'个人学术主页',
+  viewPublications:'查看全部论文',skip:'跳转到正文',aboutNav:'关于',researchNav:'研究方向',pubNav:'学术论文',heroLabel:'语音 · 音频 · 多模态学习',academicProfile:'个人学术主页',
   intro:'我的研究关注机器如何理解与生成语音、音频及多模态内容。',
   bio:'研究工作涵盖统一语音语言模型、可控语音合成、语音情感识别与口语对话系统，并参与 Ming 系列多模态模型的合作研究。',
   scholarSnapshot:'Google Scholar 学术指标',asOf:'截至 2026 年 11 月 25 日',citations:'引用次数',liveProfile:'查看最新学术档案',
@@ -8,11 +8,11 @@ const zh = {
   audioTitle:'统一音频智能',audioText:'探索面向语音理解、生成与指令驱动编辑的统一表示。',
   multiTitle:'多模态学习',multiText:'融合语言、视觉与音频，实现统一的多模态感知与生成。',
   speechTitle:'表现力语音与对话',speechText:'研究可控语音合成、稳健的情感识别与自然对话交互。',explorePapers:'查看相关论文',
-  pubLabel:'学术论文与预印本',pubTitle:'论文与研究成果。',allOnScholar:'在 Google Scholar 查看全部记录',
+  pubLabel:'学术论文与预印本',pubTitle:'学术论文',allOnScholar:'在 Google Scholar 查看全部记录',
   pubNote:'收录期刊、会议论文与 arXiv 预印本；重复记录已合并，作者列表沿用 Google Scholar 展示格式。',
   allYears:'全部年份',earlier:'更早',searchLabel:'搜索论文',noResults:'没有找到符合条件的论文。',reset:'重置筛选',paper:'论文',code:'代码',
   connectLabel:'了解更多',connectTitle:'论文、代码与交流。',connectText:'通过 Google Scholar 了解我的研究，通过 GitHub 探索开源工作。',
-  footer:'更新于 2026 年 11 月 25 日 · 托管于 GitHub Pages'
+  footer:'更新于 2026 年 11 月 26 日 · 托管于 GitHub Pages'
 };
 const nodes = [...document.querySelectorAll('[data-i18n]')];
 const en = Object.fromEntries(nodes.map(node => [node.dataset.i18n, node.textContent]));
