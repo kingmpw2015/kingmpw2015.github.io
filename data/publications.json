@@ -1,0 +1,136 @@
+{
+  "source": "https://scholar.google.com/citations?user=cy7ml6kAAAAJ&hl=en",
+  "retrieved": "2026-11-25",
+  "publications": [
+    {
+      "title": "When tone and words disagree: Towards robust speech emotion recognition under acoustic-semantic conflict",
+      "authors": "D Huang, Y Lv, R Xiong, C Jin, X Peng",
+      "venue": "arXiv:2601.04564",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:IjCSPb-OGe4C",
+      "paper": "https://arxiv.org/abs/2601.04564"
+    },
+    {
+      "title": "ReStyle-TTS: Relative and continuous style control for zero-shot speech synthesis",
+      "authors": "H Li, C Jin, C Li, W Guan, Z Huang, X Chen",
+      "venue": "Findings of ACL 2026, pp. 9257–9269",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:eQOLeE2rZwMC",
+      "paper": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "title": "Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS",
+      "authors": "R Shi, Y Wang, H Song, J Wang, Y Kang, N Khan, W Shan, B Yen, ...",
+      "venue": "arXiv:2606.25672",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:_FxGoFyzp5QC",
+      "paper": "https://arxiv.org/abs/2606.25672"
+    },
+    {
+      "title": "The Right Source Is Not Enough: Understanding History Interference in Speech-LLM Memory",
+      "authors": "HJ Song, W Shan, R Shi, Y Wu, Y Wang, J Luo, J Kuang, X Yang, Z Cui, ...",
+      "venue": "arXiv:2611.05124",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:hqOjcs7Dif8C",
+      "paper": "https://arxiv.org/abs/2611.05124"
+    },
+    {
+      "title": "SPRI: SVD-Partitioned Residual Initialization for Data-Constrained MoE Upcycling in Speech-to-Text Translation",
+      "authors": "W Shan, R Mao, Y Li, Y Zhang, Y Luo, T Zheng, C Xu, Y Qiao, C Jin, ...",
+      "venue": "EMNLP 2026",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:UebtZRa9Y70C",
+      "paper": "https://arxiv.org/abs/2606.16456"
+    },
+    {
+      "title": "UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation",
+      "authors": "R Shi, K Li, Y Wang, D Yang, J Li, J Wang, C Zeng, B Yen, A Takeshi, ...",
+      "venue": "arXiv:2609.28206",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:Se3iqnhoufwC",
+      "paper": "https://arxiv.org/abs/2609.28206"
+    },
+    {
+      "title": "Rethinking Length-Based Training: Batch Composition and Loss Normalization in Speech Token Language Models",
+      "authors": "H Song, R Shi, W Shan, J Luo, Y Wang, Y Wu, C Jin",
+      "venue": "arXiv:2609.25890",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:roLk4NBRz8UC",
+      "paper": "https://arxiv.org/abs/2609.25890"
+    },
+    {
+      "title": "Robust Speech Emotion Recognition under Tone-Word Conflict: A Benchmark and Framework",
+      "authors": "X Peng, D Huang, Y Lv, R Xiong, C Jin, B Li, X Wang, Z Yu",
+      "venue": "arXiv:2609.04236",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:LkGwnXOMwfcC",
+      "paper": "https://arxiv.org/abs/2609.04236"
+    },
+    {
+      "title": "VIVIDVOICE: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis",
+      "authors": "C Ma, J Jin, R Xiong, C Jin, C Yan, W Yang",
+      "venue": "ICASSP 2026",
+      "year": 2026,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:WF5omc3nYNoC",
+      "paper": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "title": "Ming-Omni: A Unified Multimodal Model for Perception and Generation",
+      "authors": "I AI, B Gong, C Zou, C Zheng, C Zhou, C Yan, C Jin, C Shen, D Zheng, ...",
+      "venue": "arXiv:2506.09344",
+      "year": 2025,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:ufrVoPGSRksC",
+      "paper": "https://arxiv.org/abs/2506.09344",
+      "code": "https://github.com/inclusionAI/Ming"
+    },
+    {
+      "title": "Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation",
+      "authors": "C Yan, C Jin, D Huang, H Yu, H Peng, H Zhan, J Gao, J Peng, J Chen, ...",
+      "venue": "arXiv:2511.05516",
+      "year": 2025,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:Tyk-4Ss8FVUC",
+      "paper": "https://arxiv.org/abs/2511.05516",
+      "code": "https://github.com/inclusionAI/Ming-UniAudio"
+    },
+    {
+      "title": "Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation",
+      "authors": "I AI, B Ma, C Zou, CK Du, C Yan, C Jin, C Shen, C Lian, C Fan, D Zheng, ...",
+      "venue": "arXiv:2510.24821",
+      "year": 2025,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:Y0pCki6q_DkC",
+      "paper": "https://arxiv.org/abs/2510.24821"
+    },
+    {
+      "title": "Duplex conversation in outbound agent system",
+      "authors": "C Jin, M Yang, Z Wen",
+      "venue": "Proc. Interspeech 2021, 4866-4867",
+      "year": 2021,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:zYLM7Y9cAGgC",
+      "paper": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "title": "Two-stage Behavior Cloning for Spoken Dialogue System in Debt Collection",
+      "authors": "Z Wang, J Liu, H Cui, C Jin, M Yang, Y Wang, X Li, R Mao",
+      "venue": "IJCAI, 4633-4639",
+      "year": 2020,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:W7OEmFMy1HYC",
+      "paper": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "title": "Investigation on measurement of mid-frequency wavefront error for large optics in high-power laser system",
+      "authors": "S Liu, C Jin, Y Zhou, Y Bai, Y Zhao, K Yi, J Shao",
+      "venue": "Optical Measurement Systems for Industrial Inspection IX 9525, 705",
+      "year": 2015,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:u-x6o8ySG0sC",
+      "paper": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Study on measurement of medium and low spatial wavefront errors of long focal length lens",
+      "authors": "C Jin, S Liu, Y Zhou, X Xu, C Wei, J Shao",
+      "venue": "Chinese Optics Letters 12 (s2), 021203-321209",
+      "year": 2014,
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:d1gkVwhDpl0C",
+      "paper": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cy7ml6kAAAAJ&pagesize=100&citation_for_view=cy7ml6kAAAAJ:d1gkVwhDpl0C"
+    }
+  ]
+}
